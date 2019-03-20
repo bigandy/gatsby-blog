@@ -4,31 +4,62 @@ import { graphql } from "gatsby"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 
-class About extends React.Component {
+class Page extends React.Component {
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
 
+    const page = data.allMarkdownRemark.edges[0]
+    const title = page.node.frontmatter.title;
+
     return (
       <Layout location={this.props.location} title={siteTitle}>
         <SEO
-          title="All posts"
+          title={title}
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
+        <h1>{title}</h1>
 
+        <div
+          dangerouslySetInnerHTML={{
+            __html: page.node.html,
+          }}
+        />
 
       </Layout>
     )
   }
 }
 
-export default About
+export default Page
 
 export const pageQuery = graphql`
   query {
     site {
       siteMetadata {
         title
+      }
+    }
+    allMarkdownRemark(
+      filter: {
+        frontmatter: {
+          type: { eq: "page" }
+        }
+        fields: {
+          slug: { eq: "/about/" }
+        }
+      }
+    ) {
+      edges {
+        node {
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+          }
+          html
+        }
       }
     }
   }
