@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Andrew's Gatsby Blog`,
     author: `Andrew Hudson`,
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A Gatsby Markdown Blog by Andrew Hudson.`,
     siteUrl: `https://andrewhudson.netlify.com/`,
     social: {
       twitter: `bigandy`,
@@ -58,8 +58,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Andrew's Gatsby Blog`,
+        short_name: `AGB`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
