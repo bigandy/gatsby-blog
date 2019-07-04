@@ -2,7 +2,7 @@
 title: 'Responsive conference'
 date: 2013-03-01 09:44:35
 draft: false
-description: ''
+description: ""
 tags: [developing]
 ---
 

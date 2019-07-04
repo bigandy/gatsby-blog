@@ -2,7 +2,7 @@
 title: 'Still Studying'
 date: 2010-12-13 19:04:26
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Maximal Sentence Length'
 date: 2014-08-04 14:30:51
 draft: false
-description: 'Gov.uk “use sentences less than 25 words long”, which is an excellent idea and one that I have started using on this site.'
+description: "Gov.uk 'use sentences less than 25 words long', which is an excellent idea and one that I have started using on this site."
 tags: [thoughts]
 ---
 

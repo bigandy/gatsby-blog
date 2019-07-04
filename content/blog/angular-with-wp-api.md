@@ -2,7 +2,7 @@
 title: 'Angular with WP API'
 date: 2015-08-18 15:23:48
 draft: false
-description: 'Here is how you can use the WP API to pull in the 10 latest posts using Angular.'
+description: "Here is how you can use the WP API to pull in the 10 latest posts using Angular."
 tags: [developing]
 ---
 

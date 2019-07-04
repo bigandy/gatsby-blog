@@ -2,7 +2,7 @@
 title: 'huzzah c''est presque le weekend'
 date: 2008-09-26 07:09:04
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Fuji Snow Suck'
 date: 2007-02-08 13:09:18
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

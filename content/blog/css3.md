@@ -2,7 +2,7 @@
 title: 'CSS3 and other new stuff'
 date: 2008-07-02 14:13:04
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

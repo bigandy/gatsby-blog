@@ -2,7 +2,7 @@
 title: 'Olympics a Year away'
 date: 2011-07-27 09:16:19
 draft: false
-description: ''
+description: ""
 tags: [boonen, cavendish, cycling, cycling, london 2012, olympic warm-up event, olympics, Aside]
 ---
 

@@ -2,7 +2,7 @@
 title: 'bloody marvelous'
 date: 2007-03-04 21:25:59
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

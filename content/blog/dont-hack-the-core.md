@@ -2,7 +2,7 @@
 title: 'Don''t Hack the Core'
 date: 2012-09-11 16:31:01
 draft: false
-description: ''
+description: ""
 tags: [developing, Image]
 ---
 

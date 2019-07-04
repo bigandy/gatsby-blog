@@ -2,7 +2,7 @@
 title: 'start of the championship, stay safe in taiwan'
 date: 2009-08-08 13:34:24
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

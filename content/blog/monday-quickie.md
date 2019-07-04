@@ -2,7 +2,7 @@
 title: 'Monday Quickie'
 date: 2007-09-11 15:53:31
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

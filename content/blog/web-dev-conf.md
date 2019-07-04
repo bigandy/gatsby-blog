@@ -2,7 +2,7 @@
 title: 'Web Dev Conf'
 date: 2011-10-20 13:06:54
 draft: false
-description: ''
+description: ""
 tags: [dev, Aside]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Turbo Training'
 date: 2011-10-03 21:01:08
 draft: false
-description: ''
+description: ""
 tags: [autumn, cycling, the sufferfest, training, turbo trainer]
 ---
 

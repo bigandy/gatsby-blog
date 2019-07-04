@@ -2,7 +2,7 @@
 title: 'First Training Runs with Forerunner 405'
 date: 2010-06-24 07:34:31
 draft: false
-description: ''
+description: ""
 tags: [GR20, Running]
 ---
 

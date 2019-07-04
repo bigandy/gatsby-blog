@@ -2,7 +2,7 @@
 title: 'Two to Become Three'
 date: 2014-11-05 09:23:06
 draft: false
-description: 'This is where I announce that my wife is pregnant with our first child.'
+description: "This is where I announce that my wife is pregnant with our first child."
 tags: [family]
 ---
 

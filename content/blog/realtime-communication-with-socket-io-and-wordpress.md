@@ -2,7 +2,7 @@
 title: 'Realtime Communication with socket.io and WordPress'
 date: 2015-11-14 09:23:47
 draft: false
-description: 'Last night I watched this video about connecting socket.io and WordPress for realtime update of WordPress content. This is incredible!'
+description: "Last night I watched this video about connecting socket.io and WordPress for realtime update of WordPress content. This is incredible!"
 tags: [life]
 ---
 

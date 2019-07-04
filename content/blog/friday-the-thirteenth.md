@@ -2,7 +2,7 @@
 title: 'Friday the Thirteenth'
 date: 2010-08-13 17:01:19
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

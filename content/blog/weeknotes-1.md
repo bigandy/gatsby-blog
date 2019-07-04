@@ -2,7 +2,7 @@
 title: 'Weeknotes #1'
 date: 2018-01-21 08:48:31
 draft: false
-description: ''
+description: ""
 tags: [life, weeknotes]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Big News #2 {new job}'
 date: 2010-07-20 20:59:55
 draft: false
-description: ''
+description: ""
 tags: [web-design]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Foals and Coco'
 date: 2010-05-13 09:06:52
 draft: false
-description: ''
+description: ""
 tags: [coco, Foals, food, gig, life, oxford]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Sixty miles!'
 date: 2011-08-01 20:27:44
 draft: false
-description: ''
+description: ""
 tags: [cycling]
 ---
 

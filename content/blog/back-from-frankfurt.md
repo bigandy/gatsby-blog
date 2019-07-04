@@ -2,7 +2,7 @@
 title: 'back from Frankfurt!'
 date: 2008-12-15 19:21:55
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

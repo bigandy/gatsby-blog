@@ -2,7 +2,7 @@
 title: 'Weeknotes #2'
 date: 2018-01-28 13:59:15
 draft: false
-description: 'I ran a couple of times, did some DIY and started juggling again.'
+description: "I ran a couple of times, did some DIY and started juggling again."
 tags: [life, weeknotes]
 ---
 

@@ -2,7 +2,7 @@
 title: 'friday morning'
 date: 2008-10-17 07:44:44
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

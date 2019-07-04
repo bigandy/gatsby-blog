@@ -2,7 +2,7 @@
 title: '30 running days of September'
 date: 2016-10-03 11:30:30
 draft: false
-description: 'Last month I decided to go running every day. That's 30 days of going outside into the fresh and cool/warm/hot air and going running. Day after day after day, running.'
+description: "Last month I decided to go running every day. That's 30 days of going outside into the fresh and cool/warm/hot air and going running. Day after day after day, running."
 tags: [Running]
 ---
 

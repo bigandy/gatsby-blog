@@ -2,7 +2,7 @@
 title: 'Back from Italy'
 date: 2011-07-21 20:26:38
 draft: false
-description: ''
+description: ""
 tags: [aside, Aside]
 ---
 

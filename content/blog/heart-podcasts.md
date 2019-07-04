@@ -2,7 +2,7 @@
 title: 'I heart Podcasts'
 date: 2014-12-03 15:20:51
 draft: false
-description: 'So I've finally started to listen to Serial, downloaded a Podcasting app, and fell in love with This American Life, restarting my affair with podcasts.'
+description: "So I've finally started to listen to Serial, downloaded a Podcasting app, and fell in love with This American Life, restarting my affair with podcasts."
 tags: [technology]
 ---
 

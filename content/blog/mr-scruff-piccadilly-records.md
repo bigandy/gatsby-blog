@@ -2,7 +2,7 @@
 title: 'Mr Scruff IN Piccadilly Records'
 date: 2014-08-13 17:13:39
 draft: false
-description: 'During my university days I lived in Manchester and frequently went to Piccadilly records for my weekly music fix. Mr Scruff was one of the excellent artists that kept me sane.'
+description: "During my university days I lived in Manchester and frequently went to Piccadilly records for my weekly music fix. Mr Scruff was one of the excellent artists that kept me sane."
 tags: [music]
 ---
 

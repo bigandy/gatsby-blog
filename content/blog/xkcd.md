@@ -2,7 +2,7 @@
 title: 'XKCD'
 date: 2012-10-05 10:29:27
 draft: false
-description: ''
+description: ""
 tags: [cartoons, Image]
 ---
 

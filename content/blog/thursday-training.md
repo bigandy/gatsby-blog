@@ -2,7 +2,7 @@
 title: 'Thursday Training'
 date: 2010-08-12 17:48:33
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

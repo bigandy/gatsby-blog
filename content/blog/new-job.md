@@ -2,7 +2,7 @@
 title: 'New Job'
 date: 2013-01-02 14:53:06
 draft: false
-description: ''
+description: ""
 tags: [abingdon, developing, electric studio, job, life, new job, wordpress, wordpress]
 ---
 

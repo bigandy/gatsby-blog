@@ -2,7 +2,7 @@
 title: 'Happy New Year 2013!'
 date: 2013-01-02 11:52:22
 draft: false
-description: ''
+description: ""
 tags: [2013, goals, goals, twenty thirteen]
 ---
 

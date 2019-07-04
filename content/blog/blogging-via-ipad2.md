@@ -2,7 +2,7 @@
 title: 'Blogging via iPad2'
 date: 2011-06-24 07:07:54
 draft: false
-description: ''
+description: ""
 tags: [Blogging, convenience, iPad2, technology]
 ---
 

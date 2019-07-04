@@ -2,7 +2,7 @@
 title: 'Wednesday Stress'
 date: 2010-08-11 19:51:41
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

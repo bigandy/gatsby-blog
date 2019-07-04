@@ -2,7 +2,7 @@
 title: 'UX of Offline'
 date: 2015-05-21 16:30:29
 draft: false
-description: ''
+description: ""
 tags: [developing]
 ---
 

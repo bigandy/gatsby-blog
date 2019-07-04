@@ -2,7 +2,7 @@
 title: 'Honey Moon'
 date: 2012-03-07 10:01:32
 draft: false
-description: ''
+description: ""
 tags: [marriage, Aside]
 ---
 

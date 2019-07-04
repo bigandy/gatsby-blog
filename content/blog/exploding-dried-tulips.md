@@ -2,7 +2,7 @@
 title: 'Exploding Dried Tulips'
 date: 2008-03-14 15:06:33
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

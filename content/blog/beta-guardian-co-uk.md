@@ -2,7 +2,7 @@
 title: 'Beta Guardian Site'
 date: 2012-10-19 10:14:34
 draft: false
-description: ''
+description: ""
 tags: [beta, developing, guardian, oocss, requirejs, responsive, smacss]
 ---
 

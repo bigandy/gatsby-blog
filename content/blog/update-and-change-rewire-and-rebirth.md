@@ -2,7 +2,7 @@
 title: 'update and change, rewire and rebirth'
 date: 2007-01-18 22:45:16
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

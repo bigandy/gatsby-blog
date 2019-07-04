@@ -2,7 +2,7 @@
 title: 'Gathering Festival this weekend'
 date: 2012-10-15 15:34:49
 draft: false
-description: ''
+description: ""
 tags: [music, Aside]
 ---
 

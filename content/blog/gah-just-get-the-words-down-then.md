@@ -2,7 +2,7 @@
 title: 'Gah. Just get the words down then!'
 date: 2009-06-07 16:27:21
 draft: false
-description: ''
+description: ""
 tags: [google wave, holiday, life, moleskin, return, spain]
 ---
 

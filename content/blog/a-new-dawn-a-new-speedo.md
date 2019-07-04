@@ -2,7 +2,7 @@
 title: 'A new Dawn - A new Speedo!'
 date: 2010-06-17 21:18:10
 draft: false
-description: ''
+description: ""
 tags: [cycling]
 ---
 

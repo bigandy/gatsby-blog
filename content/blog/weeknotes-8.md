@@ -2,7 +2,7 @@
 title: 'Weeknotes #8'
 date: 2018-11-05 13:13:30
 draft: false
-description: 'This week was spent mostly on trains, with a little bit of wedding and birthday in between.'
+description: "This week was spent mostly on trains, with a little bit of wedding and birthday in between."
 tags: [life, weeknotes]
 ---
 

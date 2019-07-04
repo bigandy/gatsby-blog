@@ -2,7 +2,7 @@
 title: 'Klaxons Scoop The Mercury Prize'
 date: 2007-09-04 21:46:53
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

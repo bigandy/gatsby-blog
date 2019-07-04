@@ -2,7 +2,7 @@
 title: 'Brrrrrr Winter''s on It''s Way'
 date: 2007-09-20 16:07:20
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

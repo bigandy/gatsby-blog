@@ -2,7 +2,7 @@
 title: 'Post London 2012 Blues'
 date: 2012-08-13 14:38:08
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

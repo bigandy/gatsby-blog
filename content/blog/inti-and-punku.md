@@ -2,7 +2,7 @@
 title: 'Inti and Punku - first photos'
 date: 2012-10-12 21:46:02
 draft: false
-description: ''
+description: ""
 tags: [cats, eating, inti, kittens, photos, Gallery, punku]
 ---
 

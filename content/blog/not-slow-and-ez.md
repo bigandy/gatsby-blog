@@ -2,7 +2,7 @@
 title: 'not slow and EZ'
 date: 2007-04-23 20:34:34
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

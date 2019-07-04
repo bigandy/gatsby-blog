@@ -2,7 +2,7 @@
 title: 'Final Day Chemist'
 date: 2010-07-30 07:38:53
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

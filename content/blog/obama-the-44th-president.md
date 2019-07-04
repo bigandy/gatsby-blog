@@ -2,7 +2,7 @@
 title: 'Obama the 44th President'
 date: 2009-01-20 22:41:20
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Changing Web Hosts'
 date: 2012-10-31 16:22:58
 draft: false
-description: ''
+description: ""
 tags: [aws, developing, dream host, ec2, media temple, rack space, Web host]
 ---
 

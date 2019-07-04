@@ -2,7 +2,7 @@
 title: 'Using forecast.io with WordPress'
 date: 2015-10-22 15:36:53
 draft: false
-description: 'How to use the WordPress Transients API and wp\_remote\_get() to grab the latest weather from the forecast.io API.'
+description: "How to use the WordPress Transients API and wp\_remote\_get() to grab the latest weather from the forecast.io API."
 tags: [developing]
 ---
 

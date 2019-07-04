@@ -2,7 +2,7 @@
 title: 'Making of Road Bike Party 2'
 date: 2014-05-12 14:19:31
 draft: false
-description: ''
+description: ""
 tags: [cycling]
 ---
 

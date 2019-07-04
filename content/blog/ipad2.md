@@ -2,7 +2,7 @@
 title: 'iPad2?'
 date: 2011-03-03 08:15:22
 draft: false
-description: ''
+description: ""
 tags: [life, tablet]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Monday Long Run'
 date: 2012-12-04 16:20:21
 draft: false
-description: ''
+description: ""
 tags: [Running]
 ---
 

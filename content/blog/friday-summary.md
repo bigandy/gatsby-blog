@@ -2,7 +2,7 @@
 title: 'Friday Summary '
 date: 2010-02-19 18:00:18
 draft: false
-description: ''
+description: ""
 tags: [Running]
 ---
 

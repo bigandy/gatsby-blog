@@ -2,7 +2,7 @@
 title: 'bright in the middle wick sunshine'
 date: 2007-01-17 20:32:11
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

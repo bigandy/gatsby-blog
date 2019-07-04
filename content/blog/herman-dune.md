@@ -2,7 +2,7 @@
 title: 'Herman DÃ¼ne'
 date: 2007-03-07 21:41:27
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

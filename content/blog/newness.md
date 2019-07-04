@@ -2,7 +2,7 @@
 title: 'Newness'
 date: 2007-03-31 22:30:11
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

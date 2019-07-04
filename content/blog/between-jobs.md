@@ -2,7 +2,7 @@
 title: 'Between Jobs'
 date: 2013-01-29 15:35:29
 draft: false
-description: ''
+description: ""
 tags: [electric studio, heathwallace, life, mac, naconf, nottingham, pc, winchester]
 ---
 

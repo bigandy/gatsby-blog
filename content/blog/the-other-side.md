@@ -2,7 +2,7 @@
 title: 'The Other Side'
 date: 2007-04-27 18:52:03
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

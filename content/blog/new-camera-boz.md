@@ -2,7 +2,7 @@
 title: 'New Camera Boz'
 date: 2007-05-09 20:26:30
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

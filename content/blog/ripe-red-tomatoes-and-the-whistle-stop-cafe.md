@@ -2,7 +2,7 @@
 title: 'Ripe Red Tomatoes and the Whistle Stop Cafe'
 date: 2007-09-26 17:00:49
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

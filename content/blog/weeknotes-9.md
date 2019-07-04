@@ -2,7 +2,7 @@
 title: 'Weeknotes #9'
 date: 2018-11-14 10:16:42
 draft: false
-description: 'I have finally joined the gym (thanks to work paying for it!) so have been thrice. Also: #ffconf'
+description: "I have finally joined the gym (thanks to work paying for it!) so have been thrice. Also: #ffconf"
 tags: [life, weeknotes]
 ---
 

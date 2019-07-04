@@ -2,7 +2,7 @@
 title: 'Onwards into the future!'
 date: 2011-01-15 14:23:49
 draft: false
-description: ''
+description: ""
 tags: [goals, life]
 ---
 

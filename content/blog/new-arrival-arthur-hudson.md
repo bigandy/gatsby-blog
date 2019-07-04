@@ -2,7 +2,7 @@
 title: 'New Arrival - Arthur Hudson'
 date: 2015-03-16 10:15:33
 draft: false
-description: 'We are proud and happy to announce the arrival of our Arthur Hudson born on 8th February weighing 3.5kg.'
+description: "We are proud and happy to announce the arrival of our Arthur Hudson born on 8th February weighing 3.5kg."
 tags: [arthur]
 ---
 

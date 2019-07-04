@@ -2,7 +2,7 @@
 title: 'Big News #1 {marriage}'
 date: 2010-07-10 09:19:52
 draft: false
-description: ''
+description: ""
 tags: [marriage]
 ---
 

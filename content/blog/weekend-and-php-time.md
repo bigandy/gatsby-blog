@@ -2,7 +2,7 @@
 title: 'Weekend and PHP time'
 date: 2010-05-07 22:16:08
 draft: false
-description: ''
+description: ""
 tags: [CIW, php, web-design]
 ---
 

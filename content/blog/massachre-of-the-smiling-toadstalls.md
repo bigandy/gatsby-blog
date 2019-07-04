@@ -2,7 +2,7 @@
 title: 'Massachre of the Smiling Toadstalls'
 date: 2007-04-16 21:20:17
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

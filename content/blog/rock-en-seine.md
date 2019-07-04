@@ -2,7 +2,7 @@
 title: 'Rock en Seine'
 date: 2008-06-05 14:51:10
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

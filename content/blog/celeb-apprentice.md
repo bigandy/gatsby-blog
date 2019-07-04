@@ -2,7 +2,7 @@
 title: 'celeb apprentice'
 date: 2007-01-26 21:45:18
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

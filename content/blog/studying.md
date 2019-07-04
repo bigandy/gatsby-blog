@@ -2,7 +2,7 @@
 title: 'Studying'
 date: 2010-12-08 22:02:23
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

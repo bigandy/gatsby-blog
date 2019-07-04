@@ -2,7 +2,7 @@
 title: 'Weekend and Studying'
 date: 2010-05-16 15:02:02
 draft: false
-description: ''
+description: ""
 tags: [CIW, ciw site designer, coding, Foals, html5, HTML5, JS, life, oxford, php, php, reading geek night, web-design]
 ---
 

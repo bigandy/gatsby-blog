@@ -2,7 +2,7 @@
 title: 'Writing from w.bloggar'
 date: 2010-08-12 21:44:49
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

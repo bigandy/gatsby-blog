@@ -2,7 +2,7 @@
 title: 'New Arrival – Emma Hudson'
 date: 2018-06-13 07:36:15
 draft: false
-description: ''
+description: ""
 tags: [family]
 ---
 

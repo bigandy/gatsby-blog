@@ -2,7 +2,7 @@
 title: 'Cool Surf Photography Video'
 date: 2014-04-30 16:27:34
 draft: false
-description: ''
+description: ""
 tags: [photography, Video]
 ---
 

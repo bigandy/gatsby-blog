@@ -2,7 +2,7 @@
 title: 'Automate Opening Zoom MacOS'
 date: 2018-08-15 07:55:32
 draft: false
-description: 'I detail how to automate the opening of Zoom on MacOS using crontab.'
+description: "I detail how to automate the opening of Zoom on MacOS using crontab."
 tags: [life]
 ---
 

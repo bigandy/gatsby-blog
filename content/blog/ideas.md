@@ -2,7 +2,7 @@
 title: 'Ideas'
 date: 2010-04-27 09:32:29
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

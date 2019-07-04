@@ -2,7 +2,7 @@
 title: 'Coffee and Photos'
 date: 2011-03-31 21:51:53
 draft: false
-description: ''
+description: ""
 tags: [life, photos, travel]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Goodbye Facebook'
 date: 2014-08-16 10:44:54
 draft: false
-description: 'What is the point of Facebook if not to compare yourself with others. I have had enough of this and have deleted my account. Here's why.'
+description: "What is the point of Facebook if not to compare yourself with others. I have had enough of this and have deleted my account. Here's why."
 tags: [life]
 ---
 

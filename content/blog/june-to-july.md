@@ -2,7 +2,7 @@
 title: 'June to July'
 date: 2007-07-06 11:44:59
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

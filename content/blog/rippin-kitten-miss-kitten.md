@@ -2,7 +2,7 @@
 title: 'Rippin Kitten — Miss Kitten '
 date: 2013-07-11 19:19:24
 draft: false
-description: ''
+description: ""
 tags: [music, Video]
 ---
 

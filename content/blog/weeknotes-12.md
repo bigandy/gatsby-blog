@@ -2,7 +2,7 @@
 title: 'Weeknotes #12'
 date: 2018-12-18 15:20:10
 draft: false
-description: ''
+description: ""
 tags: [life, weeknotes]
 ---
 

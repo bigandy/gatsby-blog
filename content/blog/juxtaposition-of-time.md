@@ -2,7 +2,7 @@
 title: 'juxtaposition of time'
 date: 2009-11-16 21:46:12
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

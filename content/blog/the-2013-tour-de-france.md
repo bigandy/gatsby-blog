@@ -2,7 +2,7 @@
 title: 'The 2013 Tour de France'
 date: 2012-10-24 12:51:43
 draft: false
-description: 'The route of the 100th edition of the Tour de France has just been released and Marion, Rob, Rich, Nick & I are planning to see some action.'
+description: "The route of the 100th edition of the Tour de France has just been released and Marion, Rob, Rich, Nick & I are planning to see some action."
 tags: [100th edition of the tdf, cycling, france, marion, nick, rich, rob, tdf, tour de france, trip]
 ---
 

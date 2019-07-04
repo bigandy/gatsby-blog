@@ -2,7 +2,7 @@
 title: 'Mid-Week Kaner'
 date: 2007-04-18 16:18:25
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

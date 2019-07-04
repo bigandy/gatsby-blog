@@ -2,7 +2,7 @@
 title: 'An SVG'
 date: 2014-01-16 16:29:45
 draft: false
-description: ''
+description: ""
 tags: [hide]
 ---
 

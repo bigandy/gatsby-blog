@@ -2,7 +2,7 @@
 title: 'Turbo Thursday'
 date: 2012-12-06 23:34:30
 draft: false
-description: ''
+description: ""
 tags: [cycling]
 ---
 

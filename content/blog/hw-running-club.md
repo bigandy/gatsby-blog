@@ -2,7 +2,7 @@
 title: 'HW Running Club'
 date: 2012-11-15 11:55:36
 draft: false
-description: ''
+description: ""
 tags: [Running]
 ---
 

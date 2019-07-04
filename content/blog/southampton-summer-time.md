@@ -2,7 +2,7 @@
 title: 'Southampton Summer Time'
 date: 2011-03-27 15:48:36
 draft: false
-description: ''
+description: ""
 tags: [life, technology]
 ---
 

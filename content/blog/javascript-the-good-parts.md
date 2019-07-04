@@ -2,7 +2,7 @@
 title: 'JavaScript : the Good Parts'
 date: 2012-10-30 16:59:13
 draft: false
-description: ''
+description: ""
 tags: [backbone.js, developing, front-end, javascript, reading]
 ---
 

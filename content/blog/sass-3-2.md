@@ -2,7 +2,7 @@
 title: 'Sass 3.2: Silent Classes'
 date: 2012-10-16 16:03:13
 draft: false
-description: ''
+description: ""
 tags: [css, developing, oocss, Gallery, sass, speakerdeck]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Chris Coyier - Big Web Show'
 date: 2012-10-21 17:03:32
 draft: false
-description: ''
+description: ""
 tags: [big web show, chris coyier, css, css tricks, podcast, Aside, zeldman]
 ---
 

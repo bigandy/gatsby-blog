@@ -2,7 +2,7 @@
 title: 'Mid-summer'
 date: 2011-06-21 07:29:38
 draft: false
-description: ''
+description: ""
 tags: [aside, Aside]
 ---
 

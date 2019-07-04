@@ -2,7 +2,7 @@
 title: 'One Week to Go! '
 date: 2013-08-01 09:17:48
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

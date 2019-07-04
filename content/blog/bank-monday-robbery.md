@@ -2,7 +2,7 @@
 title: 'Bank Monday Robbery'
 date: 2007-05-07 15:27:23
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

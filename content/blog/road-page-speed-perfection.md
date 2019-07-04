@@ -2,7 +2,7 @@
 title: 'Road to Page Speed Perfection'
 date: 2014-08-21 19:00:21
 draft: false
-description: 'A tweet inspired me to improve my page speed score and I managed to get both mobile and desktop to 100.'
+description: "A tweet inspired me to improve my page speed score and I managed to get both mobile and desktop to 100."
 tags: [dev]
 ---
 

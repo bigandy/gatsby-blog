@@ -2,7 +2,7 @@
 title: 'Big CSS'
 date: 2012-09-07 16:19:14
 draft: false
-description: ''
+description: ""
 tags: [big css, css, css, developing, oocss, Gallery, speakerdeck]
 ---
 

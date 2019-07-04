@@ -2,7 +2,7 @@
 title: 'Bad Mood Monday'
 date: 2011-07-25 09:31:53
 draft: false
-description: ''
+description: ""
 tags: [cycling]
 ---
 

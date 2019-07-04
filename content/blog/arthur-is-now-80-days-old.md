@@ -2,7 +2,7 @@
 title: 'Arthur is now 80 days old'
 date: 2015-04-29 15:46:08
 draft: false
-description: 'Time flies. Arthur is now 11.5 weeks old and doing well. Each day he continues to change and life is a continual wonder, both for us to observe his new skills and abilities and for him.'
+description: "Time flies. Arthur is now 11.5 weeks old and doing well. Each day he continues to change and life is a continual wonder, both for us to observe his new skills and abilities and for him."
 tags: [arthur]
 ---
 

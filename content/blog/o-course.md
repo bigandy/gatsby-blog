@@ -2,7 +2,7 @@
 title: 'o'' course'
 date: 2008-09-03 14:49:42
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

@@ -2,7 +2,7 @@
 title: 'Tuesday Fuckup'
 date: 2010-08-10 17:49:13
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

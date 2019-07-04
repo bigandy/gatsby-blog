@@ -2,7 +2,7 @@
 title: 'Two Girl Kittens'
 date: 2012-11-28 14:14:42
 draft: false
-description: ''
+description: ""
 tags: [cats, Aside]
 ---
 

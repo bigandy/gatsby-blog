@@ -2,7 +2,7 @@
 title: 'Yorkshire Tour de France 2014 Grand Depart'
 date: 2012-12-14 14:26:59
 draft: false
-description: ''
+description: ""
 tags: [cycling, Aside]
 ---
 

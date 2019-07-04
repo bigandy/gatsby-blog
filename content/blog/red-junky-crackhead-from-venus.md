@@ -2,7 +2,7 @@
 title: 'Red Junky Crackhead from Venus'
 date: 2007-10-16 21:02:57
 draft: false
-description: ''
+description: ""
 tags: [life]
 ---
 

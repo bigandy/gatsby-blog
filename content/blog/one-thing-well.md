@@ -2,7 +2,7 @@
 title: 'Do One Thing Well'
 date: 2014-12-16 15:57:49
 draft: false
-description: ''
+description: ""
 tags: [design]
 ---
 

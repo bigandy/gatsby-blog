@@ -2,7 +2,7 @@
 title: 'Blogging via Google Docs'
 date: 2011-06-22 20:10:55
 draft: false
-description: ''
+description: ""
 tags: [google docs, publishing, technology, wordpress, xmlrpc]
 ---
 

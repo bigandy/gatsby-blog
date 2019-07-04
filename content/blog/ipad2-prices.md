@@ -2,7 +2,7 @@
 title: 'Ipad2 Prices'
 date: 2011-03-22 21:19:04
 draft: false
-description: ''
+description: ""
 tags: [technology]
 ---
 
