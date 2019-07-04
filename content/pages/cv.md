@@ -1,12 +1,8 @@
 ---
-layout: layouts/page.njk
 title: CV
 tags:
     - nav
-navtitle: CV
-templateClass: tmpl-post
 type: page
-date: 2018-01-01
 ---
 
 <a class="email" href="mailto:andy@big-andy.co.uk">andy@big-andy.co.uk</a>

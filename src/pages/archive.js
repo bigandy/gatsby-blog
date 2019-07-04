@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 import { rhythm } from "../utils/typography"
 
-class BlogIndex extends React.Component {
+class ArchiveIndex extends React.Component {
   render() {
     const { data } = this.props
     const siteTitle = data.site.siteMetadata.title
@@ -28,6 +28,7 @@ class BlogIndex extends React.Component {
           title="All posts"
           keywords={[`blog`, `gatsby`, `javascript`, `react`]}
         />
+        <h1>Archive</h1>
         {outputPosts.map(({ node }) => {
           const title = node.frontmatter.title || node.fields.slug
           return (
@@ -55,7 +56,7 @@ class BlogIndex extends React.Component {
   }
 }
 
-export default BlogIndex
+export default ArchiveIndex
 
 export const pageQuery = graphql`
   query {
@@ -67,7 +68,6 @@ export const pageQuery = graphql`
     allMarkdownRemark(
       filter: { frontmatter: { type: { eq: null } } }
       sort: { fields: [frontmatter___date], order: DESC }
-      limit: 5
     ) {
       edges {
         node {

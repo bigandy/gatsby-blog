@@ -3,6 +3,7 @@ import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
+import Tags from "../components/tags"
 import { rhythm, scale } from "../utils/typography"
 
 class BlogPostTemplate extends React.Component {
@@ -10,14 +11,14 @@ class BlogPostTemplate extends React.Component {
     const post = this.props.data.markdownRemark
     const siteTitle = this.props.data.site.siteMetadata.title
     const { previous, next } = this.props.pageContext
+    const { description, title, tags, date } = post.frontmatter
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO
-          title={post.frontmatter.title}
-          description={post.frontmatter.description || post.excerpt}
-        />
-        <h1>{post.frontmatter.title}</h1>
+        <SEO title={title} description={description || post.excerpt} />
+        <h1>{title}</h1>
+        {tags && <Tags tags={tags} />}
+
         <p
           style={{
             ...scale(-1 / 5),
@@ -26,7 +27,7 @@ class BlogPostTemplate extends React.Component {
             marginTop: rhythm(-1),
           }}
         >
-          {post.frontmatter.date}
+          {date}
         </p>
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
         <hr
@@ -82,6 +83,7 @@ export const pageQuery = graphql`
         title
         date(formatString: "MMMM DD, YYYY")
         description
+        tags
       }
     }
   }

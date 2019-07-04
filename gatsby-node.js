@@ -1,7 +1,7 @@
 const path = require(`path`)
 const { createFilePath } = require(`gatsby-source-filesystem`)
 
-exports.createPages = async({ graphql, actions }) => {
+exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions
 
   const blogPost = path.resolve(`./src/templates/blog-post.js`)
@@ -12,11 +12,7 @@ exports.createPages = async({ graphql, actions }) => {
       {
         allMarkdownRemark(
           sort: { fields: [frontmatter___date], order: DESC }
-          filter: {
-            frontmatter: {
-              type: { eq: null }
-            }
-          }
+          filter: { frontmatter: { type: { eq: null } } }
           limit: 1000
         ) {
           edges {
@@ -32,7 +28,7 @@ exports.createPages = async({ graphql, actions }) => {
         }
       }
     `
-  );
+  )
 
   if (result.errors) {
     throw result.errors
@@ -56,55 +52,46 @@ exports.createPages = async({ graphql, actions }) => {
     })
   })
 
-  // return null
-  // })
-  // .then(() => {
   const pageQuery = await graphql(
-      `
-        {
-          allMarkdownRemark(
-            sort: { fields: [frontmatter___date], order: DESC }
-            filter: {
-              frontmatter: {
-                type: { eq: "page" }
+    `
+      {
+        allMarkdownRemark(
+          sort: { fields: [frontmatter___date], order: DESC }
+          filter: { frontmatter: { type: { eq: "page" } } }
+          limit: 1000
+        ) {
+          edges {
+            node {
+              fields {
+                slug
               }
-            }
-            limit: 1000
-          ) {
-            edges {
-              node {
-                fields {
-                  slug
-                }
-                frontmatter {
-                  title
-                }
+              frontmatter {
+                title
               }
             }
           }
         }
-      `
-    );
-  //   .then(result => {
-    if (pageQuery.errors) {
-      throw pageQuery.errors
-    }
+      }
+    `
+  )
+  if (pageQuery.errors) {
+    throw pageQuery.errors
+  }
 
-    // Create blog posts pages.
-    const pages = pageQuery.data.allMarkdownRemark.edges
+  // Create blog posts pages.
+  const pages = pageQuery.data.allMarkdownRemark.edges
 
-    pages.forEach((post, index) => {
-      createPage({
-        path: post.node.fields.slug,
-        component: pageTemplate,
-        context: {
-          slug: post.node.fields.slug,
-        },
-      })
+  pages.forEach((post, index) => {
+    createPage({
+      path: post.node.fields.slug,
+      component: pageTemplate,
+      context: {
+        slug: post.node.fields.slug,
+      },
     })
+  })
 
-    return null
-  // });
+  return null
 }
 
 exports.onCreateNode = ({ node, actions, getNode }) => {
