@@ -8,9 +8,6 @@ fields:
 - type: datetime
   name: date
   label: date
-- type: boolean
-  name: draft
-  label: draft
 - type: text
   name: description
   label: description
