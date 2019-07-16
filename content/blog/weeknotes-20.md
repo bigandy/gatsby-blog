@@ -1,11 +1,13 @@
 ---
 title: 'Weeknotes #20'
-date: 2019-06-18 12:48:54
+date: 2019-06-18T12:48:54.000+00:00
 draft: false
-description: "Since last time I have: run a 24km trail race, been on holiday to Croatia, celebrated Emma's first birthday."
-tags: ['life','weeknotes']
----
+description: 'Since last time I have: run a 24km trail race, been on holiday to Croatia,
+  celebrated Emma''s first birthday.'
+tags:
+- weeknotes
 
+---
 Since last time I have:
 
 *   Been on holiday with Marion and the kids to Croatia for a couple of weeks of sun, relaxing, swimming and sight-seeing.
