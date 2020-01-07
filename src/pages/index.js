@@ -65,7 +65,7 @@ export const pageQuery = graphql`
       }
     }
     allMarkdownRemark(
-      filter: { frontmatter: { type: { eq: null } } }
+      filter: { frontmatter: { draft: { eq: false }, type: { eq: null } } }
       sort: { fields: [frontmatter___date], order: DESC }
       limit: 5
     ) {
