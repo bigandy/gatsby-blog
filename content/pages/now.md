@@ -5,23 +5,24 @@ tags:
 type: page
 ---
 
-Last updated: 7 July 2019.
+Last updated: 10 February 2020.
 
 ## Life
 
-I'm living in Wallingford with my wife Marion and our two children Arthur, 4, and Emma, 13 months. I am learning to swim freestyle!
+I'm living in Wallingford with my wife Marion and our two children Arthur, 5, and Emma, 20 months. I am getting ready for half-term and running more than before.
 
 ## Learning
 
-At the moment I am learning about Gatsby and Eleventy and serverless.
+At the moment I am learning about Atomic Habits and Deep Work. I am keeping this site spruced up and learning a lot about 11ty and in the process doing more writing which I am getting slowly better at. At work I am keeping a habits diary and I am starting to notice trends and eliminate bad habits, its amazing what you see if you keep a moment by moment diary! Its amazing what a good first hour has on the rest of the day, and vice versa. Its amazing how much water and good music have too.
 
 ## Fitness
 
-Running and going to the gym, plus swimming two or three times a week as I am having freestyle swimming lessons. What's next? I'd like to be able to swim 10 lengths without stopping. Future far fetched goal is to swim 2.4 miles without stopping (Ironman distance) but that'll take a few more sessions;)
+Running is taking most of my time and enjoyment which is great because I love running in the mud and cooler weather. As of last week I have also just started going back to the gym again after a few months away so I will be using that to improve my upper body strength and get some variation from something that is not running. So I am running three or four times a week, and gyming once or twice.
+
+I'm keeping my eye out for some good running races to enter.
 
 ## Family
 
-Marion is well although her company are restructuring so a bit of stress there. The kids are well, Arthur is going to start Primary School in September and has a couple of taster sessions for him to get used to the place. Arthur will go to France for 10 days with the grandparents (hoping they will take both kids next year!)
+Marion and the kids are well. Marion's currently in South Africa for work so I'm looking after the children. Arthur started Primary School last September and is having a great time. Everyone is looking forward to the half-term break.
 
 Credit for now page: [first seen on Derek Sivers now page](https://sivers.org/now)
-
